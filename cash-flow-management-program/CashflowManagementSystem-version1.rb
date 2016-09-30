@@ -1,3 +1,5 @@
+#FIRST ITERATION OF PROGRAM, NOT END PRODUCT
+
 class CashFlowManagementSystem
   def enter()
     puts "This scene is not yet configured."
